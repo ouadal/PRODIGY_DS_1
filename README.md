@@ -22,3 +22,4 @@ During the EDA process, I performed the following steps:
 1. Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
 
 2. Visualization: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable
+   
