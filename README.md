@@ -11,9 +11,13 @@ This dataset contains records of population from the year 2001 to 2022.
 
 
 ## Tools and Libraires used:
+
 .Jupyter notebook
+
 .Pandas
+
 .Numpy
+
 .Matplotlip & Seaborn for visualization
 
 ## Exploratory Data Analysis (EDA)
